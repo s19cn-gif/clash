@@ -41,6 +41,9 @@ DOMAIN-SUFFIX,ebank.cdrcbank.com
 # 58
 DOMAIN-SUFFIX,58.com
 
+#豆包
+DOMAIN-SUFFIX,doubao.com
+
 # Alibaba
 DOMAIN-SUFFIX,1688.com
 DOMAIN-SUFFIX,aliapp.org
